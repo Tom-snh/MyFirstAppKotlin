@@ -9,6 +9,7 @@ Au lancement de l'application, une image se charge sur l'activité:
 Une page de connection s'affiche ensuite:
 
 ![Page de connection](https://github.com/Tom-snh/MyFirstAppKotlin/blob/master/app/src/main/res/drawable/Connection.png)
+
 Deux options sont ici présentes: 
   - une pour rendre visible ou masquer le mot de passe
   - une pour supprimer le login rempli au clavier
