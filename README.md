@@ -2,4 +2,4 @@
 
 Au lancement de l'application, une image se charge sur l'activité:
 
-[Page de lancement] (C:\TOM\ESIEA\Kotlin.png)
+![Page de lancement] (https://github.com/Tom-snh/MyFirstAppKotlin/blob/master/app/src/main/res/drawable/KotlinLancement.png)
